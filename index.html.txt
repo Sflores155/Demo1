@@ -1,4 +1,0 @@
-<h1>Salvatore Flores</h1>
-<p>Version Control Essentials</p>
-<p>time for the next commit assignment</p>
-<!-- Hello, this is my comment for the assignment -->
